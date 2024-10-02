@@ -1,0 +1,11 @@
+model\Facebook.class
+grupo05\proyectofinalpd\ProyectoFinalPD.class
+model\ProfileIterator.class
+controllers\SocialController.class
+model\SocialSpammer.class
+view\SocialNetworkView$1.class
+model\SocialNetwork.class
+view\SocialNetworkView.class
+model\FacebookIterator.class
+model\Profile.class
+view\SocialNetworkView$2.class
